@@ -1,0 +1,3 @@
+In Python you can use inheritance for different classes.
+In Python you can use reverse function to reverse a list.
+In Python you can use with to open a file.
