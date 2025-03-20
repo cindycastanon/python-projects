@@ -1,5 +1,7 @@
 #same output 3 times
 
+#absolute path:
+#filename='/Users/cindycastanon/python-projects/part1pccexercises/10p1learning_python.txt'
 filename = '10p1learning_python.txt'
 
 print("--- Reading in the entire file:")
